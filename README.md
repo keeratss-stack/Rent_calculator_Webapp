@@ -1,5 +1,7 @@
 # Rent_calculator_Webapp
 
+#Made by: keerat singh
+
 #ABOUT
 a rent calculator app which make splitting of rent easier
 
