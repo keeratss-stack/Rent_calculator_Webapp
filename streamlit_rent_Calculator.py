@@ -1,6 +1,4 @@
 import streamlit as st
-import numpy as np
-import pandas as pd
 
 st.title("Rent Calculator")
 rent=st.number_input("enter the total rent amount:",min_value=0)
