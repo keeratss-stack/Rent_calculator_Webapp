@@ -18,3 +18,6 @@ a rent calculator app which make splitting of rent easier
 #techonolgy used
 ->python
 ->streamlit
+
+#live app : https://webapppy-24edzqvvuotn8shfrepzyu.streamlit.app/
+
